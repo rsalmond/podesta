@@ -1,9 +1,8 @@
 # PoParse
 
-A quick and dirty data processing script for leaked Podesta emails.
+A quick and dirty data processing script for leaked Podesta emails. If you just want to explore the database I've committed it here, download `data.db` and have a look.
 
-
-## Setup
+## Running it yourself
 
 __Get the email__
 
@@ -47,8 +46,7 @@ attachments/4962/pic00153.gif
 attachments/34320/October Report to the Faculty.docx
 ```
 
-A sqlite database file called `data.db` will be created
-
+A sqlite database file called `data.db` will be created 
 
 ```
 $ sqlite3 data.db 
