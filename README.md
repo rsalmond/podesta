@@ -1,6 +1,6 @@
 # PoParse
 
-A quick and dirty data processing for leaked Podesta emails.
+A quick and dirty data processing script for leaked Podesta emails.
 
 
 ## Setup
